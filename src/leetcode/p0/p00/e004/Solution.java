@@ -1,6 +1,7 @@
 package leetcode.p0.p00.e004;
 
 /**
+ *
  * Created by admin on 2017/5/11.
  */
 public class Solution {

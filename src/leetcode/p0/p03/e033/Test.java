@@ -13,6 +13,7 @@ public class Test {
         System.out.println("result = " + new Solution().search(new int[]{5,1,3}, 1));
         System.out.println("result = " + new Solution().search(new int[]{1, 3}, 1));
         System.out.println("result = " + new Solution().search(new int[]{3, 1}, 1));
+        System.out.println("result = " + new Solution().search(new int[]{5,6,4,5,5,5,5,5,5}, 6));
         System.out.println("result = " + new Solution().search(null, -10));
     }
 }
